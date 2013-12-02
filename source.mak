@@ -28,6 +28,7 @@ SOURCES = \
 	get.c \
 	go.c \
 	html.c \
+	julia.c \
 	jscript.c \
 	keyword.c \
 	lisp.c \
@@ -93,6 +94,7 @@ OBJECTS = \
 	get.$(OBJEXT) \
 	go.$(OBJEXT) \
 	html.$(OBJEXT) \
+	julia.$(OBJEXT) \
 	jscript.$(OBJEXT) \
 	keyword.$(OBJEXT) \
 	lisp.$(OBJEXT) \

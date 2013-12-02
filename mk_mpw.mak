@@ -23,6 +23,7 @@ SOURCES = ¶
 	fortran.c ¶
 	get.c ¶
 	keyword.c ¶
+	julia.c ¶
 	lisp.c ¶
 	lregex.c ¶
 	lua.c ¶
@@ -65,6 +66,7 @@ OBJ = ¶
 	erlang.o ¶
 	fortran.o ¶
 	get.o ¶
+	julia.o ¶
 	keyword.o ¶
 	lisp.o ¶
 	lregex.o ¶

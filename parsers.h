@@ -37,6 +37,7 @@
 	HtmlParser, \
 	JavaParser, \
 	JavaScriptParser, \
+	JuliaParser, \
 	LispParser, \
 	LuaParser, \
 	MakefileParser, \
