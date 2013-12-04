@@ -22,10 +22,13 @@ SOURCES = \
 	eiffel.c \
 	entry.c \
 	erlang.c \
+	falcon.c \
 	flex.c \
 	fortran.c \
 	get.c \
+	go.c \
 	html.c \
+	julia.c \
 	jscript.c \
 	keyword.c \
 	lisp.c \
@@ -33,7 +36,6 @@ SOURCES = \
 	lua.c \
 	main.c \
 	make.c \
-	matlab.c \
 	objc.c \
 	ocaml.c \
 	options.c \
@@ -86,10 +88,13 @@ OBJECTS = \
 	eiffel.$(OBJEXT) \
 	entry.$(OBJEXT) \
 	erlang.$(OBJEXT) \
+	falcon.$(OBJEXT) \
 	flex.$(OBJEXT) \
 	fortran.$(OBJEXT) \
 	get.$(OBJEXT) \
+	go.$(OBJEXT) \
 	html.$(OBJEXT) \
+	julia.$(OBJEXT) \
 	jscript.$(OBJEXT) \
 	keyword.$(OBJEXT) \
 	lisp.$(OBJEXT) \
@@ -97,7 +102,6 @@ OBJECTS = \
 	lua.$(OBJEXT) \
 	main.$(OBJEXT) \
 	make.$(OBJEXT) \
-	matlab.$(OBJEXT) \
 	objc.$(OBJEXT) \
 	ocaml.$(OBJEXT) \
 	options.$(OBJEXT) \
